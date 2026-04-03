@@ -28,4 +28,5 @@ The paper includes an analysis of the Capital One (2019) data breach, highlighti
 
 ## 👩‍💻 Authors
 Balint Eliza-Iuliana
+
 Bodnar Florina-Alina
